@@ -1,0 +1,20 @@
+.RED{
+    color: red;
+}
+.BLACK{
+    color: black;
+}
+.BLUE{
+    color: blue;
+}
+.contan-card{
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.card{
+    width: 10rem;
+    flex-wrap: wrap;
+    padding: 5px;
+    margin: 5px;
+}

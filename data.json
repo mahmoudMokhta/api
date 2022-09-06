@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "src": "https://media.istockphoto.com/photos/red-tshirt-mockup-men-as-design-template-tee-shirt-blank-isolated-on-picture-id1354031012?k=20&m=1354031012&s=612x612&w=0&h=wG3hVNaaoDTDEFpb3Ad-O7cJribxbNXXNCcjHJTrJH8=",
+        "name": "T-shirt",
+        "price": "200$",
+        "color": "RED",
+        "model": "Nike"
+    },
+    {
+        "id":2,
+        "src": "https://shop.tate.org.uk/dw/image/v2/BBPB_PRD/on/demandware.static/-/Sites-TateMasterShop/default/dwaa107262/tate-logo-black--tshirt-back-g1086.jpg?sw=556",
+        "name": "T-shirt",
+        "price": "300$",
+        "color": "BLACK",
+        "model": "Adidas"
+    },
+    {
+        "id":3,
+        "src": "https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/731D1D1C8EB9422AA3BA4943F5A233ED/M10093625_7.jpg?fit=inside|540:540",
+        "name": "T-shirt",
+        "price": "400$",
+        "color": "BLUE",
+        "model": "Puma"
+    },
+    {
+        "id":4,
+        "src": "https://media.istockphoto.com/photos/red-tshirt-mockup-men-as-design-template-tee-shirt-blank-isolated-on-picture-id1354031012?k=20&m=1354031012&s=612x612&w=0&h=wG3hVNaaoDTDEFpb3Ad-O7cJribxbNXXNCcjHJTrJH8=",
+        "name": "T-shirt",
+        "price": "200$",
+        "color": "RED",
+        "model": "Nike"
+    },
+    {
+        "id":5,
+        "src": "https://shop.tate.org.uk/dw/image/v2/BBPB_PRD/on/demandware.static/-/Sites-TateMasterShop/default/dwaa107262/tate-logo-black--tshirt-back-g1086.jpg?sw=556",
+        "name": "T-shirt",
+        "price": "300$",
+        "color": "BLACK",
+        "model": "Adidas"
+    },
+    {
+        "id":6,
+        "src": "https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/731D1D1C8EB9422AA3BA4943F5A233ED/M10093625_7.jpg?fit=inside|540:540",
+        "name": "T-shirt",
+        "price": "400$",
+        "color": "BLUE",
+        "model": "Puma"
+    }
+]
